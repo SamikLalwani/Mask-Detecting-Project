@@ -7,6 +7,7 @@ I worked on designing a mask detection program using Python. I selected a data s
 Here is what the final output looked like:
 
 ![No mask](https://user-images.githubusercontent.com/71218661/202376729-99062eab-7639-443e-b15a-e7e6455b780d.png)
+
 ![With mask](https://user-images.githubusercontent.com/71218661/202376841-c0a26268-24aa-4627-8ca3-85e79607091f.png)
 
 
